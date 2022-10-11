@@ -1,6 +1,9 @@
+*{
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
 .red{
-    background-color: pink;
-    font-family: Verdana, DejaVu sans, sans-serif;
+    background-color: rgb(255, 192, 203);
 }
 
 .red.cooler{
@@ -8,14 +11,12 @@
 }
 
 #second{
-    color: blue;
+    color: #0000ff;
     font-size: 36px;
-    font-family: Verdana, DejaVu sans, sans-serif;
 }
 
 #fourth{
-    background-color: lightgreen;
+    background-color: #8fee8f;
     font-size: 24px;
-    font-family: Verdana, DejaVu sans, sans-serif;
     font-weight: bold;
 }
